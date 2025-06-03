@@ -1,0 +1,26 @@
+{
+  "name": "my-discord-bot-full",
+  "version": "1.0.0",
+  "description": "An AI-powered Discord bot with various commands, including music.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ai",
+    "gemini",
+    "imagen",
+    "javascript",
+    "music"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.0.0",
+    "ffmpeg-static": "^5.2.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
